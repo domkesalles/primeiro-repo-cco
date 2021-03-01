@@ -1,6 +1,8 @@
-A;
-Abacaxi
+﻿A;
+Amora
+5 - Abacaxi
 
 M;
-Melância
-Maçã
+1 - Melão
+1 - Melância
+2 - Maçã
