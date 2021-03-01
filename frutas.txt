@@ -1,6 +1,7 @@
-+ A;
-+ Amora
-+ Abacaxi
-+
-+M;
-+Melão
+A;
+Abacaxi
+
+M;
+Melão
+Melância
+Maçã
